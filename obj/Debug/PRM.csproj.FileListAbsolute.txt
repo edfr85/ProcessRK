@@ -1,0 +1,12 @@
+C:\Users\dhicc\Desktop\새 폴더\UTIL\ProcessRK\bin\Debug\PRM.exe.config
+C:\Users\dhicc\Desktop\새 폴더\UTIL\ProcessRK\bin\Debug\PRM.exe
+C:\Users\dhicc\Desktop\새 폴더\UTIL\ProcessRK\bin\Debug\PRM.pdb
+C:\Users\dhicc\Desktop\새 폴더\UTIL\ProcessRK\obj\Debug\PRM.csprojAssemblyReference.cache
+C:\Users\dhicc\Desktop\새 폴더\UTIL\ProcessRK\obj\Debug\PRM.fmList.resources
+C:\Users\dhicc\Desktop\새 폴더\UTIL\ProcessRK\obj\Debug\PRM.FrMain.resources
+C:\Users\dhicc\Desktop\새 폴더\UTIL\ProcessRK\obj\Debug\PRM.Properties.Resources.resources
+C:\Users\dhicc\Desktop\새 폴더\UTIL\ProcessRK\obj\Debug\PRM.UC.ucCon.resources
+C:\Users\dhicc\Desktop\새 폴더\UTIL\ProcessRK\obj\Debug\PRM.csproj.GenerateResource.cache
+C:\Users\dhicc\Desktop\새 폴더\UTIL\ProcessRK\obj\Debug\PRM.csproj.CoreCompileInputs.cache
+C:\Users\dhicc\Desktop\새 폴더\UTIL\ProcessRK\obj\Debug\PRM.exe
+C:\Users\dhicc\Desktop\새 폴더\UTIL\ProcessRK\obj\Debug\PRM.pdb
